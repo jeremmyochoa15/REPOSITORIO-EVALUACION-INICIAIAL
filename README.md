@@ -8,7 +8,7 @@ Es un software que se ejecuta en el navegador web.
 4. Que es una herramienta ofimática?
 Son aquellos programas o aplicaciones que nos permiten manipular informáticamente la información con la que se trabaja de forma habitual en una oficina.
 5. Herramientas de Google
-APLICACIONES.|VISTO.|
+|APLICACIONES.|VISTO.|
 |------------|:----------:
 |GOOGLE DOCS|.|✔️|
 |GOOGLE SLIDES|.|✔️|
