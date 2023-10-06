@@ -2,9 +2,11 @@
 1. ¿Que es una página web?
 
 Una Página Web es un documento electrónico que forma parte de la WWW (World Wide Web) generalmente construido en el lenguaje HTML ó en XHTML
+
 2. ¿Que es un sitio web?
  
  Es un espacio virtual que contiene toda la información que una persona o empresa quiere difundir a través de internet.
+
 3. ¿Que es una aplicacion web?
 
 Es un software que se ejecuta en el navegador web.
@@ -14,14 +16,15 @@ Es un software que se ejecuta en el navegador web.
 Son aquellos programas o aplicaciones que nos permiten manipular informáticamente la información con la que se trabaja de forma habitual en una oficina.
 
 5. Herramientas de Google
+
 |APLICACIONES.|VISTO.|
 |------------|:----------:
-GOOGLE DOCS| ✔️|
+GOOGLE DOCS|✔️|
 GOOGLE SLIDES|✔️|
 GOOGLE SHEETS|✔️|
-GOOGLE CALENCAR|🗓️|
+GOOGLE CALENDAR|🗓️|
 GOOGLE MEET|💻|
-|...|.|...|
+|...|...|
 6. ¿Que es html?
  <!DOCTYPE html>
  <html lang="en">
