@@ -15,7 +15,7 @@ Es un software que se ejecuta en el navegador web.
 
 Son aquellos programas o aplicaciones que nos permiten manipular informáticamente la información con la que se trabaja de forma habitual en una oficina.
 
-5. Herramientas de Google
+5. [Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/)
 
 |APLICACIONES.|VISTO.|
 |------------|:----------:
